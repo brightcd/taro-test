@@ -1,0 +1,19 @@
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  color: #666;
+  width: 25%;
+}
+
+.img {
+  width: 138px;
+  height: 138px;
+}

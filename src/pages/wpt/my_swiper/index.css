@@ -1,0 +1,17 @@
+.swiper-container {
+  width: 100vw;
+}
+
+.swiper-image {
+  width: 100%;
+}
+
+.cover {
+  position: absolute;
+  margin-top: -15px;
+  width: 100vw;
+  height: 20px;
+  border-radius: 50% 50% 0 0;
+  background: #FFF;
+  z-index: 1;
+}
